@@ -152,13 +152,12 @@ By clicking the **Predict Flower Species** button, the application uses the trai
 ```text
 irisflowerclassification/
 │
-├── 01_iris_flower_classification.csv
+├── iris_flower_classification.csv
 ├── irisflowerclassification.ipynb
 ├── app.py
 ├── iris_model.pkl
 ├── iris_scaler.pkl
 ├── model_scaled.pkl
-├── requirements.txt
 └── README.md
 ```
 
